@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #343a40; /* Color de fondo del encabezado */
+}
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff; /* Color del texto del encabezado */
+}
+.navbar-toggler-icon {
+    background-color: #d6d0d0; /* Color del icono del botón de menú */
+}
+.navbar-nav {
+    margin-left: 0; /* Reduce the space between the brand and the menu items */
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    position: relative; /* Añadido para posicionar el botón */
+}
